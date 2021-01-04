@@ -32,5 +32,5 @@ Windows 10
 Vulnerability Description AND recurrence:   
 The vulnerability is in the \BabyCare-master\inc\contentsectionpage.php   
 ![images](https://github.com/TCSWT/Baby-Care-System/blob/main/sqlfile.png)   
-user SQL Map  
+use SQL Map  
 ![images](https://github.com/TCSWT/Baby-Care-System/blob/main/sql.png)  
